@@ -102,6 +102,4 @@ npm install
 npm run dev
 ```
 
-## License
 
-This project doesn't currently specify a license. Add one (e.g. MIT) if you plan to share or open-source it.

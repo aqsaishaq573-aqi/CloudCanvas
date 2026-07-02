@@ -1,0 +1,8 @@
+{
+  "name": "Photo Gallery",
+  "description": "A modern photo gallery with an upload form, responsive grid, and delete functionality, using Supabase as the backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
